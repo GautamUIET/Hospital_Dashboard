@@ -1,6 +1,3 @@
-Absolutely! Here's an enhanced and more detailed version of your **Hospital Dashboard** description, written to be professional, engaging, and easy to read:
-
----
 
 ### **Hospital Emergency Room Dashboard**
 
